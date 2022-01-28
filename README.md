@@ -3,7 +3,7 @@
 
  <p>Proyecto 2ªEvaluación: Creación de un site completo con temática libre</p>
  
-Trabajar todos los conceptos adquiridos a lo largo del curso, como son, guía de estilo, mockups, HTML,CSS, adaptabilidad, imágnes/vídeo y por supuesto cumplir los parámetros de usabilidad, visual, educativa… sin olvidarnos del uso de las teorías de la Gestalt.
+Trabajar todos los conceptos adquiridos a lo largo del curso, como son, guía de estilo, mockups, HTML,CSS, adaptabilidad, imágnes/vídeo y por supuesto cumplir los parámetros de usabilidad, visual, educativa… sin olvidarnos del uso de las teorías de la Gestalt...
  
  
  
