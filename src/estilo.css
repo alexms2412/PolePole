@@ -1,0 +1,445 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+}
+
+.navbar-brand img {
+    margin-right: 50px;
+    margin-left: 20px;
+}
+
+.navbar-nav li {
+    padding-right: 50px;
+}
+
+.estiloContenido {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#contenedor1 {
+    background-image: url("img/image00003.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 650px;
+}
+
+.imagenLogoOrdenador {
+    float: left;
+    padding-left: 10px;
+    margin-top: -60px;
+}
+
+.menu_bar {
+    display: none;
+}
+
+header {
+    width: 100%;
+}
+
+.titulo1 {
+    padding-right: 20px;
+    padding-top: 100px;
+    padding-left: 180px;
+    color: #fff;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    position: absolute;
+}
+
+.estiloBoton {
+    font-size: 15px;
+    padding: 13px 22px;
+    max-width: 150px;
+    font-weight: normal;
+    white-space: nowrap;
+    cursor: pointer;
+    text-align: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+    border: 0 none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    background-color: #cf2c24;
+    color: #fff;
+}
+
+.posicionsBoton {
+    padding-left: 185px;
+    padding-top: 20px;
+    position: absolute;
+    top: 220px;
+    left: 5px;
+}
+
+#segundaImagen {
+    height: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+#titulo2 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.checkList {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.checkList a {
+    text-decoration: white;
+}
+
+.textoInincio {
+    padding: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    text-align: center;
+    padding-right: -2%;
+}
+
+.tituloFinal {
+    padding: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.iconoIdiomas {
+    width: 27px;
+    height: 27px;
+    margin-top: -4px;
+}
+
+.flechaIzquierda {
+    -webkit-transform: rotate(120deg);
+    height: 220px;
+    margin-top: 110px;
+}
+
+.flechaDerecha {
+    height: 220px;
+    -webkit-transform: rotate(-120deg);
+    margin-top: 110px;
+}
+
+.checkList2 {
+    text-align: center;
+}
+
+#imagenInicio {
+    background-image: url("img/image00002edit2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 700px;
+}
+
+#divBarrasLaterales {
+    border-right: 4px #cf2c24;
+    border-right-style: solid;
+    border-left: 4px #cf2c24;
+    border-left-style: solid;
+}
+
+#textoFotos {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    border-radius: 55px;
+}
+
+.dobleBoton {
+    width: 230px;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.textoGabrielJuan {
+    text-align: justify;
+    padding-right: 80px;
+    padding-top: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
+
+.checkList4 {
+    text-align: justify;
+    padding-left: 80px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
+
+#divListado {
+    background-color: #9eb7cf71;
+    border-radius: 15px;
+    padding: 5px;
+    padding-bottom: 30px;
+}
+
+.texto {
+    text-align: center;
+}
+
+.cuadrado {
+    border: 4px #cf2c24;
+    border-style: solid;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.criticas {
+    padding: 30px;
+}
+
+.formularioContacto {
+    text-align: justify;
+    padding: 35px;
+}
+
+#estiloDeportes {
+    font-family: 'Bebas Neue', cursive;
+    background-image: url("src/img/Backgroudns/8.jpg");
+    background-position: center;
+    backdrop-filter: blur(2px);
+    background-repeat: no-repeat;
+    font-size: 30px;
+    text-align: center;
+}
+
+.fab {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding-left: 25px;
+}
+
+.logoFooter {
+    height: 100px;
+    margin-top: 30px;
+}
+
+#contenedor {
+    background-color: #fffdfd;
+    border-radius: 15px;
+}
+
+#contenedor2 {
+    background-color: #fffdfdce;
+    border-radius: 15px;
+}
+
+.contenedor3 {
+    background-color: #fffdfdce;
+    border-radius: 15px;
+    width: 35%;
+    margin-left: 35%;
+}
+
+.fondoPreguntas {
+    background-image: url("img/FondoPreguntas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoCursos {
+    background-image: url("img/clases2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoOpiniones {
+    background-image: url("img/FondoOpinion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoFormulario {
+    background-image: url("img/playa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botonPreguntas {
+    padding-left: 45%;
+    padding-top: 60px;
+}
+
+.carousel-inner img {
+    height: 10%;
+}
+
+.contenedorCursos {
+    background-color: #f6faffd0;
+    border-radius: 15px;
+}
+
+.tituloscursos {
+    text-align: left;
+    font-size: 25px;
+}
+
+.tabla tr td {
+    padding-right: 0px;
+    padding-left: 70px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+table tr td {
+    border-bottom: rgb(104, 98, 98) 2px solid;
+}
+
+table {
+    margin-top: 50px;
+}
+
+table tr {}
+
+.estiloTituloTabla {
+    color: black;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+/*Animacion flecha*/
+
+.arrow {
+    border-right: 4px #cf2c24;
+    border-right-style: solid;
+    border-bottom: 4px #cf2c24;
+    border-bottom-style: solid;
+    height: 55px;
+    width: 55px;
+    margin: auto;
+    -webkit-transform: rotate(45deg);
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+
+.arrow2 {
+    border-right: 4px #cf2c24;
+    border-right-style: solid;
+    border-bottom: 4px #cf2c24;
+    border-bottom-style: solid;
+    height: 55px;
+    width: 55px;
+    margin: auto;
+    -webkit-transform: rotate(45deg);
+    margin-top: -30px;
+    position: relative;
+    top: -55px;
+}
+
+
+/*****
+Footer
+******/
+
+.footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32;
+    height: 340px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#contacto {
+    position: absolute;
+    left: 15%;
+    margin-left: 30%;
+}
+
+.redes_sociales img {
+    width: 50px;
+    height: 50px;
+}
+
+.redes_sociales {
+    margin-left: 35%;
+    margin-top: 5%
+}
+
+#horario {
+    margin-left: 20%;
+}
+
+#ubicacion {
+    margin-left: 70%;
+    margin-top: -15%;
+}
+
+#copyright {
+    margin-left: 35%;
+    margin-top: -1%;
+}
+
+
+/*fin animacion Flecha*/
+
+@media screen and (max-width: 991px) {
+    .segundaImagen {
+        padding-left: 200px;
+        border-radius: 15px;
+    }
+    .texto3,
+    .checkList {
+        text-align: center;
+    }
+    .contenedor3 {
+        background-color: #fffdfdce;
+        border-radius: 15px;
+        width: 100%;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .botonImagen {
+        display: none;
+    }
+    .imagenSaberMas {
+        display: none;
+    }
+    .textoGabrielJuan {
+        text-align: justify;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 24px;
+    }
+    .checkList4 {
+        text-align: justify;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: 'Open Sans', sans-serif;
+        padding-bottom: 15px;
+        font-size: 24px;
+    }
+}
