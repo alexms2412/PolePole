@@ -8,5 +8,5 @@ Trabajar todos los conceptos adquiridos a lo largo del curso, como son, guía de
  
  <br>
 <p align="left">
- <img src="https://github.com/alexms2412/PolePole/blob/master/src/img/Logo.png"></p>
+ <img src="https://github.com/alexms2412/PolePole/blob/master/GuiaEstilos.png"></p>
  
