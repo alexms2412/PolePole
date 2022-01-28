@@ -6,7 +6,7 @@
 Trabajar todos los conceptos adquiridos a lo largo del curso, como son, guía de estilo, mockups, HTML,CSS, adaptabilidad, imágnes/vídeo y por supuesto cumplir los parámetros de usabilidad, visual, educativa… sin olvidarnos del uso de las teorías de la Gestalt...
  
  
- 
-<p align="left">
+ <br>
+<p align="right">
  <img src="https://github.com/alexms2412/PolePole/blob/master/src/img/Logo.png"></p>
  
